@@ -23,35 +23,3 @@
 .two {
   background-color: #64d19f;
 }
-
-.video-list__item-body {
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  padding-left: 20px;
-}
-
-.body-name {
-  font-family: Source Sans Pro;
-  font-size: 14px;
-  padding: 0;
-  color: #fff;
-  height: 20px;
-  margin-bottom: -8px;
-}
-
-.body-city {
-  font-family: Source Sans Pro;
-  padding: 0;
-  font-size: 12px;
-  color: #fff;
-  height: 20px;
-}
-
-iframe {
-  width: 267px;
-  height: 150px;
-  padding: 0;
-}

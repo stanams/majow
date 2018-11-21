@@ -3,32 +3,3 @@
   flex-direction: column;
   align-items: center;
 }
-
-.song-title {
-  color: #fff;
-  font-family: Source Sans Pro;
-  margin-bottom: -10px;
-}
-
-.song-duration {
-  color: #fff;
-  font-weight: 300;
-  font-family: Source Sans Pro;
-  margin-bottom: 30px;
-}
-
-.duration-circle {
-  border-radius: 50%;
-  background-color: #fff;
-  width: 50px;
-  height: 50px;
-  border: 3px #00d69b solid;
-}
-
-.small-player-wrapper {
-  display: flex;
-  width: 100%;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-around;
-}

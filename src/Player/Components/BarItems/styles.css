@@ -17,6 +17,15 @@
   color: #fff;
 }
 
+.duration {
+  opacity: 0.6;
+  transition: opacity 0.2s ease-in;
+}
+
+.duration:hover {
+  opacity: 1;
+}
+
 .players {
   width: 60%;
   display: flex;
@@ -25,9 +34,21 @@
 }
 
 .colored-players {
+  cursor: pointer;
   width: 70px;
+  padding-left: 30px;
 }
 
 .white-players {
+  cursor: pointer;
   width: 70%;
+}
+
+.player {
+  opacity: 0.7;
+  transition: opacity 0.2s ease-in;
+}
+
+.player:hover {
+  opacity: 1;
 }

@@ -1,0 +1,12 @@
+.song-title {
+  color: #fff;
+  font-family: Source Sans Pro;
+  margin-bottom: -10px;
+}
+
+.song-duration {
+  color: #fff;
+  font-weight: 300;
+  font-family: Source Sans Pro;
+  margin-bottom: 30px;
+}
