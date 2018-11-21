@@ -1,0 +1,32 @@
+.small-player-wrapper {
+  display: flex;
+  min-width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.duration-circle {
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 50px;
+  height: 50px;
+  border: 3px #00d69b solid;
+}
+
+.arrow {
+  position: block;
+  min-width: 50%;
+}
+
+.arrow > img {
+  cursor: pointer;
+  width: 20px;
+  transition: width 0.2s ease;
+}
+
+.arrow:hover > img {
+  cursor: pointer;
+  width: 23px;
+}
