@@ -1,0 +1,12 @@
+.header-container {
+  background-color: #1d2028;
+  max-width: 100%;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  color: #fff;
+  box-shadow: 0px 7px 29px -4px rgba(29, 32, 39, 1);
+  margin-bottom: 45px;
+}
