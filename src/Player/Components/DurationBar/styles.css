@@ -1,0 +1,15 @@
+.duration-bar-wrapper {
+  width: 95%;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  background-color: white;
+}
+
+.fisrt {
+  border: 1px solid #355ab8;
+}
+
+.second {
+  border: 1px solid #64d19f;
+  width: 20px;
+}

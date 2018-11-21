@@ -1,2 +1,0 @@
-# majow
-Created with CodeSandbox

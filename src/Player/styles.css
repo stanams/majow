@@ -1,0 +1,9 @@
+.player-wrapper {
+  border-radius: 6px;
+  height: 8rem;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

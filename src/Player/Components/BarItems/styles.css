@@ -1,0 +1,33 @@
+.bar-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0;
+  width: 95%;
+  padding-bottom: 10px;
+  font-family: Source Sans Pro;
+}
+
+.current-time {
+  color: #64d19f;
+}
+
+.total-time {
+  color: #fff;
+}
+
+.players {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.colored-players {
+  width: 70px;
+}
+
+.white-players {
+  width: 70%;
+}
