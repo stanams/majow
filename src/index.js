@@ -10,10 +10,6 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <link
-        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro"
-        rel="stylesheet"
-      />
       <div className="container">
         <Title />
         <VideoList />
